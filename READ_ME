@@ -4,5 +4,6 @@ This is the easiest way to login with any social platform like github/facebook/g
 # Then use this command 'composer require laravel/socialite'
 # you have to register your laravel app  at any social platform at developer option to get slient_id and client_secret 
   use this link (https://github.com/settings/developers) to go to your github developer/register_app directory.
-  note: you have to have a github account already. You can do the same using your google account also. I have done using Github. If you dont use your github account then make changes where needed. Thats it.
+  note: you have to have a github account already. You can do the same using your google account also. I have done using Github. 
+  If you dont use your github account then make changes where needed. Thats it.
 # thats all, just copy-past all files at the right directory and Boom! you are done.
